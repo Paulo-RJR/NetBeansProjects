@@ -5,7 +5,7 @@ e compilados em modo Console através da IDE (Integrated Drive Electronics) Netb
 continuacemos utilizando a IDE Netbeans) com a versão 1.8.0_261 do Java para entrega de exercícios e trabalhos propostos para este Curso de Análise e 
 Desenvolvimento-ADS de Sistemas 1º e 2º Semestres.*
 
-<center>![](https://github.com/Paulo-RJR/NetBeansProjects/blob/master/img/logo-netbeans.png)</center>
+![](https://github.com/Paulo-RJR/NetBeansProjects/blob/master/img/logo-netbeans.png)
 
 ## Breve História do Java:
 
@@ -29,7 +29,7 @@ computação. Em 2004 Java atingiu a marca de 3 milhões de desenvolvedores em t
 de desenvolvimento de software. Java tornou-se popular pelo seu uso na internet e hoje possui seu ambiente de execução presente em navegadores, 
 mainframes, sistemas operacionais, celulares, palmtops, cartões inteligentes etc.* 
 
-<center>![](https://github.com/Paulo-RJR/NetBeansProjects/blob/master/img/logo-java.jpg)</center>
+![](https://github.com/Paulo-RJR/NetBeansProjects/blob/master/img/logo-java.jpg)
 
 ** <i>Fonte de Pesquisa - Wikipédia:**
     
