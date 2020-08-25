@@ -1,4 +1,4 @@
-# Curso: Análise e Desenvolvimento d Sistemas - ADS:
+# Curso: Análise e Desenvolvimento de Sistemas - ADS:
 
 *Programas criados utilizando a Linguagem de Programação Java a qual é Orientanda a Objetos, sendo os programas propóstos neste curso codificados 
 e compilados em modo Console através da IDE (Integrated Drive Electronics) Netbeans versão 8.2 (em aula a professora usa a IDE Eclipse, porém deixou que 
